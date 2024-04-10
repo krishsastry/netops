@@ -43,13 +43,9 @@ NOTE: Be sure to merge the latest from **upstream** before making a pull request
 ## Filing Issues
 If you encounter a bug, please file an issue in the Github repository. Please provide as much information as possible to help fix the issue. Please file the issue under the appropriate repo.
 
-
 ## Coding Guidelines
 * Follow good [coding guidelines](https://github.com/golang/go/wiki/CodeReviewComments).
 * Write good [commit messages](https://github.com/angular/angular/blob/main/CONTRIBUTING.md#-commit-message-format).
-
-## Developer Guide
-This guide helps you to get started with developing [kubeslice-controller](https://github.com/kubeslice/netops/blob/master/developer_guide.md).
 
 ## License
 Apache License 2.0
